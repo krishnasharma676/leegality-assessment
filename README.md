@@ -3,7 +3,7 @@
 A premium, responsive product catalog application built with React and Tailwind CSS, featuring category-wise pagination, advanced filtering, and a sleek product detail view.
 
 ## 🚀 Live Demo & Repository
-- **GitHub Repository**: [https://github.com/your-username/leegality-assessment](https://github.com/your-username/leegality-assessment)
+- **GitHub Repository**: [https://github.com/krishnasharma676/leegality-assessment](https://github.com/krishnasharma676/leegality-assessment)
 - **Tech Stack**: React 19, Vite, Tailwind CSS 4, Lucide React, React Router 7.
 
 ---
@@ -17,7 +17,7 @@ A premium, responsive product catalog application built with React and Tailwind 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/leegality-assessment.git
+   git clone https://github.com/krishnasharma676/leegality-assessment.git
    cd leegality-assessment
    ```
 
